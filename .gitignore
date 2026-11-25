@@ -1,0 +1,26 @@
+# Build directories
+Debug/
+Release/
+build/
+out/
+
+# binaires compilés and build artifacts
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+*.cyclo
+*.list
+*.srec
+*.sym
+*.mk
+
+# IDE & editor temporary/local files
+.metadata/
+.launch
+.vscode/
+.DS_Store
+Thumbs.db
